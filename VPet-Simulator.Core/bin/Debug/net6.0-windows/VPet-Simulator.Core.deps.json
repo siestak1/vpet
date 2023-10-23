@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VPet-Simulator.Core/1.0.0": {
+        "dependencies": {
+          "LinePutScript": "1.9.2",
+          "LinePutScript.Localization.WPF": "1.0.6",
+          "Panuon.WPF": "1.0.2",
+          "Panuon.WPF.UI": "1.1.15.8"
+        },
+        "runtime": {
+          "VPet-Simulator.Core.dll": {}
+        }
+      },
+      "LinePutScript/1.9.2": {
+        "runtime": {
+          "lib/net6.0/LinePutScript.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LinePutScript.Localization.WPF/1.0.6": {
+        "dependencies": {
+          "LinePutScript": "1.9.2"
+        },
+        "runtime": {
+          "lib/net6.0/LinePutScript.Localization.WPF.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Panuon.WPF/1.0.2": {
+        "runtime": {
+          "lib/net6.0-windows/Panuon.WPF.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "Panuon.WPF.UI/1.1.15.8": {
+        "dependencies": {
+          "Panuon.WPF": "1.0.2"
+        },
+        "runtime": {
+          "lib/net6.0-windows/Panuon.WPF.UI.dll": {
+            "assemblyVersion": "1.1.15.8",
+            "fileVersion": "1.1.15.8"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VPet-Simulator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinePutScript/1.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i6211T9N2CiHCw2L18TKN785kl1dj0Nbam6Sm4165I02zTIfrr9dvYcbCALwYQOyjf7n9MW51Za1fQ5iLvtLTQ==",
+      "path": "lineputscript/1.9.2",
+      "hashPath": "lineputscript.1.9.2.nupkg.sha512"
+    },
+    "LinePutScript.Localization.WPF/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jCS0dDlCtz4FnyvQKPnfanOknF2ftQlDklTmSXi5NH8fi7Rj9QLY9TnufpopTX3DFDF08t72MF8YdjjYAfxDrA==",
+      "path": "lineputscript.localization.wpf/1.0.6",
+      "hashPath": "lineputscript.localization.wpf.1.0.6.nupkg.sha512"
+    },
+    "Panuon.WPF/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NBpsstm/flsE4Qd3r2nVuXU+Yw0GK7L6w6oD+0ay0IvIiiQWc+/q0ICRExriyWHwQOf6DhcsO3gfWHKou3oDUA==",
+      "path": "panuon.wpf/1.0.2",
+      "hashPath": "panuon.wpf.1.0.2.nupkg.sha512"
+    },
+    "Panuon.WPF.UI/1.1.15.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K2q0gJCY2fsnphb8ye+ELpvFTW4Xyl3h/2j90R3fTWMc6fgJxBP2CgNaJk6n7wCMJqkRU9VRSYmTr1QCxqM5wA==",
+      "path": "panuon.wpf.ui/1.1.15.8",
+      "hashPath": "panuon.wpf.ui.1.1.15.8.nupkg.sha512"
+    }
+  }
+}
