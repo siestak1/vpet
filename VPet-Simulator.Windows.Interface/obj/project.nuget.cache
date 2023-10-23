@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VF1tycFNqrl5eZhjoUXE/OjuhqEwyAXToDABjrpl2aaqR1LIWSSHf3clWY4DluIi8w9YDk/CtUKW8mZmgnaKA==",
+  "success": true,
+  "projectFilePath": "D:\\code\\VPet-main\\VPet-Simulator.Windows.Interface\\VPet-Simulator.Windows.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crin\\.nuget\\packages\\lineputscript\\1.9.2\\lineputscript.1.9.2.nupkg.sha512",
+    "C:\\Users\\crin\\.nuget\\packages\\lineputscript.localization.wpf\\1.0.6\\lineputscript.localization.wpf.1.0.6.nupkg.sha512",
+    "C:\\Users\\crin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\crin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512",
+    "C:\\Users\\crin\\.nuget\\packages\\panuon.wpf\\1.0.2\\panuon.wpf.1.0.2.nupkg.sha512",
+    "C:\\Users\\crin\\.nuget\\packages\\panuon.wpf.ui\\1.1.15.8\\panuon.wpf.ui.1.1.15.8.nupkg.sha512"
+  ],
+  "logs": []
+}
