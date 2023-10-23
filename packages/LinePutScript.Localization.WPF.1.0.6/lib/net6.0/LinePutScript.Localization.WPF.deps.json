@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinePutScript.Localization.WPF/1.0.0": {
+        "dependencies": {
+          "LinePutScript": "1.8.2"
+        },
+        "runtime": {
+          "LinePutScript.Localization.WPF.dll": {}
+        }
+      },
+      "LinePutScript/1.8.2": {
+        "runtime": {
+          "lib/net6.0/LinePutScript.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinePutScript.Localization.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinePutScript/1.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JH8OKFkJ9kBGwM074A9PeNvpbqfCKraK1RPmD9EcSrls6/Ldmu4oM/jla/MMend7uwHfvw/JNMwa2gYEd/Waqw==",
+      "path": "lineputscript/1.8.2",
+      "hashPath": "lineputscript.1.8.2.nupkg.sha512"
+    }
+  }
+}
